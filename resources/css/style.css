@@ -1,0 +1,33 @@
+body{
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+
+.Discover h1{
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+  text-align: center;
+}
+
+h4{
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+h2{
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+.Travel p{
+  font-size: 21px;
+  color: grey;
+}
+
+.footer h3{
+  text-align: right;
+  color: grey;
+}
